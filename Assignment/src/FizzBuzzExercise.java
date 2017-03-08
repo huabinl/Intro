@@ -1,4 +1,4 @@
-/**
+/*
  * Created by hbliu.
  */
 public class FizzBuzzExercise {
